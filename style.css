@@ -1,0 +1,44 @@
+.marioimg{
+    width:1500px;
+}
+
+#header{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+body{
+    background-image: url('dcy9we9-a9b61e8e-92f7-4bbc-a2b0-80eacbb86dc0.png');
+}
+
+#instruct{
+    float: right;
+    margin-right: 30px;
+}
+
+#camera{
+    margin-top: 100px;
+}
+
+.ii{
+    display: inline-block;
+    width: 45%;
+}
+
+#footer{
+    width: 100%;
+    position: sticky;
+    font-size: 20px;
+    margin: 0px;
+}
+
+
+
+video{
+    background: url('game_console-removebg-preview.png');
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+}
